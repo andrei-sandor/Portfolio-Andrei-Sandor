@@ -41,7 +41,21 @@ Hello
 
 First indiviudal assignment done at McGill University in Fall 2021. This assignment consists of creating a Ping Pong game against the computer or playing alone with the wall. This assignment was done in 4 assignemnts focusing highly to promote understanding of object-oriented programming. Handle the ball, the player paddle, the paddle of the computer, the simulation and the table of the game in different classes. Used real physics equations to make the game like in real life. The GUI and the ball interactions were done.
 
-[A4-2.pdf](https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/files/11779542/A4-2.pdf)
+
+<img width="937" alt="Screenshot 2023-06-17 at 12 34 40 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/7da8cb49-9f7f-4472-88b6-45d880f8cf2a">
+
+### Base2Base.c
+  - C (<stdio.h>, <stdlib.h>, <string.h> <ctype.h>)
+  - Eclipse IDE for C
+
+Second individual assignment done at McGill University in Fall 2021. This assignemnt consists of creating a base to base calculator; it consists of converting a number in base in [2,36] to a base in [2,36]. This programs introduced the concept of errors in input code.
+
+  - Learned functions prototypes
+  - Learned definitions
+  - Learned global variables
+  - Learned to work inside main()
+  - Learned to wowk with strings
 
 
+<img width="814" alt="Screenshot 2023-06-17 at 12 44 17 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/fd983239-c218-4efb-a698-aac4d0a3ebed">
 
