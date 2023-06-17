@@ -30,8 +30,6 @@ This portfolio will contain technical works done alone or in a team either for s
 3. [Individual Out of School Projects](#Individual-Out-of-School-Projects)
 4. [Team Out of School Projects](#Team-Out-of-School-Projects)
 
-Hello
-
 ## Individual-School-Projects
 ### ECSE 202 (Intro to Software Development)
 #### Ping Pong Game
@@ -94,4 +92,10 @@ Used the ARMv9 private timer, switches, pushbuttons and HEX displays to create a
   - Pop and Push to store variables on the stack.
   - Working by including many drivers (Problem broken in smaller steps)
   - ISR, IRQ, CRC
+
+
+https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/9d112afd-62d1-4180-a603-102c4a816822
+
+
+    
 
