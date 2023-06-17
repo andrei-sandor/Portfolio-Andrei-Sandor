@@ -55,6 +55,7 @@ Second individual assignment done at McGill University in Fall 2021. This assign
   - Learned global variables
   - Learned to work inside main()
   - Learned to wowk with strings
+  - Learn basics C constructs
 
 
 <img width="814" alt="Screenshot 2023-06-17 at 12 44 17 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/fd983239-c218-4efb-a698-aac4d0a3ebed">
