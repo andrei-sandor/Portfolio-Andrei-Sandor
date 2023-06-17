@@ -6,7 +6,6 @@ Hi, I am Andrei, a passionated of Machine Learning and Software Development from
 
 - 🧑🏻‍🎓 Third Year Software Co-op Engineering student at McGill University
 - 👨🏻‍💻 Two internships completed (Rogue Research and Gildan). One to come at Autodesk in Fall 2023.
-- ⚽️ 🎾 Like to play tennis and soccer in my free time.
 - 💪 Master these programming languages:
 
   - Python (including the libraries Scikit-Learn, Pandas, Numpy, OpenCV, MatPlotLib) 
@@ -18,6 +17,7 @@ Hi, I am Andrei, a passionated of Machine Learning and Software Development from
   - HTML
   - CSS
   - JavaScript
+  - VHDL
   - R
   - Octave
  
@@ -33,7 +33,7 @@ This portfolio will contain technical works done alone or in a team either for s
 Hello
 
 ## Individual-School-Projects
-### ECSE 202 (Intro to software development)
+### ECSE 202 (Intro to Software Development)
 #### Ping Pong Game
 - Java (ACM Package)
 - Eclipse IDE
@@ -44,7 +44,7 @@ First indiviudal assignment done at McGill University in Fall 2021. This assignm
 
 <img width="937" alt="Screenshot 2023-06-17 at 12 34 40 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/7da8cb49-9f7f-4472-88b6-45d880f8cf2a">
 
-### Base2Base.c
+#### Base2Base.c
   - C (<stdio.h>, <stdlib.h>, <string.h> <ctype.h>)
   - Eclipse IDE for C
 
@@ -59,4 +59,39 @@ Second individual assignment done at McGill University in Fall 2021. This assign
 
 
 <img width="814" alt="Screenshot 2023-06-17 at 12 44 17 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/fd983239-c218-4efb-a698-aac4d0a3ebed">
+
+### ECSE 324 (Computer Organization)
+  - Assembly
+  - C
+  - ARMv7 DE1-SoC Emulator
+#### Assignment 2  
+
+##### Calculator
+
+The program is used to a create a calculator that performs addition, subtraction, multipliaction and division on decimal numbers. The calculator works by using switches, pushbuttons and HEX displays.
+
+  - Basic Assembly concepts
+  - Working subroutines
+  - Branches and BL (branch and links)
+  - Loop concepts
+  - Pop and Push to store variables on the stack.
+  - Working by including many drivers (Problem broken in smaller steps)
+
+
+https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/756276f1-59bc-42a7-88a2-3bb393214561
+
+
+  
+
+##### Whack-A-Mole (Using polling and interrupts concepts)
+
+Used the ARMv9 private timer, switches, pushbuttons and HEX displays to create a 30 seconds Whack-a-Mole game. The goal is to press the good pushbutton of where the circle/mole is in 30 seconds. The mole will reappear randomnly on a display after each correct hit. 
+
+  - Basic Assembly concepts
+  - Working subroutines
+  - Branches and BL (branch and links)
+  - Loop concepts
+  - Pop and Push to store variables on the stack.
+  - Working by including many drivers (Problem broken in smaller steps)
+  - ISR, IRQ, CRC
 
