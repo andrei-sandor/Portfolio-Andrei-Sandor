@@ -97,5 +97,28 @@ Used the ARMv9 private timer, switches, pushbuttons and HEX displays to create a
 https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/9d112afd-62d1-4180-a603-102c4a816822
 
 ## Team school projects
-    
 
+### ECSE 321 (Intro to Software Engineering)
+#### Museum Website
+  - Write requirements
+  - Domain Model
+  - Use Case Diagrams
+  - Gradle
+  - Spring
+  - JPA
+  - PostgreSQL
+  - Java
+  - DTO
+  - Service
+  - Controller
+  - Unit tests
+  - Integration tests
+  - Vue.js (HTML, CSS, JavaScript)
+  - Postman
+  - InteliJ
+  - JSON
+
+  Created in a team of 6 a website (frontend/backend) for a fictual museum that has a manager, employees and visitors. This website was broken into 3 sprints. The first sprint was used to setup the backend from a non technical point of view. Then, the second sprint, we implemented the backend by using a database (postgreSQL) and JPA annotations. The backend was broken into service, DTOs and controllers. The backend was tested with Postman by using JSON files. Then, for the final sprint, we created the fontend by using Vue.js. We also learned project management techniques used in the industry like GitHub projects, issues, sprints meetings and sprint reviews.
+
+# Link to the Github repo
+https://github.com/McGill-ECSE321-Fall2022/project-group-18
