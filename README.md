@@ -149,3 +149,26 @@ TODO: Pictures
 
   TODO Link
   TODO video
+
+### ECSE 223 (Model-Based Programming)
+#### Dive Safe Application
+  - Domain model
+  - Constraints
+  - Java
+  - Eclipse IDE
+  - Controller
+  - Step definitions
+  - State machine
+  - Transitions
+  - Frontend (JavaFx, CSS)
+  - Backend (View, application, controller, model and persistence)
+  - UMPLE
+  - Step definitions
+  - User stories
+  - TDD
+  - MVC
+
+Created a DiveSafe application which is a software system to facilitate diving activities in the island of Atlantis. There was a domain model that was first created to respect the requirements of the administrator of the diving program. Then, this domain model was translated into UMPLE code. Domain constraints were included. For the second sprint, we implemented completely a feature of the application. A controller and Gherkin step definitions were done. For the third sprint, we continued to build the application by introducing state machines. Finally, for the last sprint, we implemented the frontend by using Javafx and CSS.
+    
+<img width="904" alt="Screenshot 2023-06-18 at 10 31 35 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/5b5e89b9-65fb-42c2-b542-d42a4df111d8">
+
