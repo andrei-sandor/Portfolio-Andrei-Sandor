@@ -120,5 +120,32 @@ https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/9d112af
 
   Created in a team of 6 a website (frontend/backend) for a fictual museum that has a manager, employees and visitors. This website was broken into 3 sprints. The first sprint was used to setup the backend from a non technical point of view. Then, the second sprint, we implemented the backend by using a database (postgreSQL) and JPA annotations. The backend was broken into service, DTOs and controllers. The backend was tested with Postman by using JSON files. Then, for the final sprint, we created the fontend by using Vue.js. We also learned project management techniques used in the industry like GitHub projects, issues, sprints meetings and sprint reviews.
 
-# Link to the Github repo
+Link to the Github repo:
 https://github.com/McGill-ECSE321-Fall2022/project-group-18
+
+TODO: Pictures
+
+### ECSE 428 (Software Engineering Practice)
+#### Web Scraper
+  - GitHub issues, branches, projects and pull requests
+  - Gradle
+  - AWS
+  - Backend (Controller, DTO, model, repository, security, service)
+  - Tesing (Unit and Integration)
+  - Testing (step definitions using Gherkin)
+  - Java
+  - Automated Acceptance Tests
+  - Sprint backlog
+  - Done checklist
+  - Task list
+  - Burndown chart
+  - Sprint
+  - Project Manager, Scrum master
+  - Code reviews
+  - Domain model
+  - User Stories
+
+  Created in a team of 9 a gaming website web scrapper by using AWS. This project was broken into two sprints. The first sprint was about creating the backend by using Java, Gradle, Controllers, DTOs, model, repository, service from a domain model. Then, at the end of the sprint, we had to write user stories for what we implemented by automating them with Gherkin step definitions. Then, for the second sprint, we implementent the frontend by using Vue.js (HTML, CSS, JavaScript, axios, router, store and views). Then, at the end of the sprint, we had to test the frontend. For this project, we applied software development management techniques such as sprints, backlogs, burndown charts, scrum masters, product owners, story points, sprint reviews, sprint meetings.
+
+  TODO Link
+  TODO video
