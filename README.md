@@ -190,3 +190,14 @@ Link repo: https://github.com/andrei-sandor/ChatMoji
 
 <img width="790" alt="Screenshot 2023-06-18 at 11 07 06 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/7d03c97d-f4ba-4520-85de-ab8899a71447">
 
+### RUHackathon
+#### CureSoft
+- Python
+- Pandas, Numpy
+- Sklearn (LogisticRegression, KNeighborsClassifier, SVC, DecisionTreeClassifier, RandomForestClassifier, GaussianNB)
+- SQlite
+
+Created in a teams of 3 for the RUHackathon an application that takes as input medical messurements and predicts whether the person has a disease like heart diseases, diabetes and liver diseases. To predict the disease machine learning and simple Python logic was used to produce this project. This work was then integrated with a login.py file that deals with taking the inputs, calling the algorithms mentioned previously and producing the outputs. There is also a functionality to login, to logout and to use the application (enter input and have access to previous inputs/history) by using a database sqlite.
+
+Repo Link:
+https://github.com/andrei-sandor/RUHackathon
