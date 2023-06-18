@@ -173,4 +173,20 @@ Created a DiveSafe application which is a software system to facilitate diving a
 <img width="904" alt="Screenshot 2023-06-18 at 10 31 35 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/5b5e89b9-65fb-42c2-b542-d42a4df111d8">
 
 ## Individual Out of School Projects
+### TOHacks
+#### ChatMoji
+
+- Python
+- Flask
+- HTML
+- CSS
+- audioop
+- websockets
+- asyncio
+
+Created in a team of 4 an application that takes speach as input and convets it to text with emojis. This project was created for the TOHacks hackathon. This application was built by bracking it in many python files. We add a file that deals with the history of the chat, that connects the input to the app, that records message, that send message. We had another file that deals with receiving the message. We had an algorithm that converts text to an emoji. We also had an app that connects, listens and saves the message on a specific port to use for the frontend. We add another file that connects to a server for future development on the app.
+
+Link repo: https://github.com/andrei-sandor/ChatMoji
+
+<img width="790" alt="Screenshot 2023-06-18 at 11 07 06 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/7d03c97d-f4ba-4520-85de-ab8899a71447">
 
