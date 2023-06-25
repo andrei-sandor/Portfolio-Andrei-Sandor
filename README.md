@@ -188,6 +188,20 @@ Link to repo: https://github.com/andrei-sandor/4InARowPython
 
 <img width="1415" alt="Screenshot 2023-06-25 at 11 59 25 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/0479557a-ea75-43e7-b2f6-f684ee87d268">
 
+### Tic-Tac-Toe
+- Java (JDK 19)
+- Command Line
+- IntelliJ IDEA
+
+  Created a tic-tac-toe game in Java that runs on the command line. This game is interactive; there are two players. The turn of each player will alternate until someone one or there is a draw. At this point, the game will restart. At each turn, the player will see the current state of the game. The player will have a chance to input his or her symbol (X or 0) by entering a number between 0 and 8 which representes a position on the board. This alternation will happen until a player wins or there is a draw.
+
+  For this game, the structure of the game is simple. There is a big while loop that handles the state of the game. Inside the while loop, each player will have a section. There will be an input taken and converted to a position on the board. Then, there will be a check for a win or a draw. Then, the next player will have the same logic applied.
+
+Link Repo: https://github.com/andrei-sandor/TicTacToeJava
+
+<img width="1406" alt="Screenshot 2023-06-25 at 12 26 17 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/c8d67101-1187-499f-b019-5d963ccc46a8">
+
+
 ## Team Out of School Projects
 ### TOHacks
 #### ChatMoji
