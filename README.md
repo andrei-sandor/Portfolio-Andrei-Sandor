@@ -172,6 +172,22 @@ Created a DiveSafe application which is a software system to facilitate diving a
     
 <img width="904" alt="Screenshot 2023-06-18 at 10 31 35 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/5b5e89b9-65fb-42c2-b542-d42a4df111d8">
 
+## Individual Out of School Projects
+### 4InARowPython
+- Python
+- PyCharm
+- Command-Line Programming
+
+Created a Python command line program of a 4 in a row game. This game is made for 2 players. At each turn, a player is asked to which colmnn he wishes to insert its token. Player 1 will have a token 'X' and Player two will have a token '0'. When, the user will decide the column, the current state of the board.table will be shown. The table will be shown at every decision of the player. The program handles correctly the placement of the tokens. It also handles correctly out-of-bounds decisions. The game will be found in a while loop until it reaches the a case that a player has a four tokens placed horizontally, vertically or diagonally.
+
+Link to repo: https://github.com/andrei-sandor/4InARowPython
+
+<img width="1437" alt="Screenshot 2023-06-25 at 11 57 13 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/cbc5c5ac-f344-4ed0-bf30-8c6d8921aa04">
+
+<img width="1419" alt="Screenshot 2023-06-25 at 11 58 07 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/bd522587-49e4-40fc-bc40-9465d55de9fb">
+
+<img width="1415" alt="Screenshot 2023-06-25 at 11 59 25 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/0479557a-ea75-43e7-b2f6-f684ee87d268">
+
 ## Team Out of School Projects
 ### TOHacks
 #### ChatMoji
