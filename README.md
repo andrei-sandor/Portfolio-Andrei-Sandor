@@ -172,7 +172,7 @@ Created a DiveSafe application which is a software system to facilitate diving a
     
 <img width="904" alt="Screenshot 2023-06-18 at 10 31 35 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/5b5e89b9-65fb-42c2-b542-d42a4df111d8">
 
-## Individual Out of School Projects
+## Team Out of School Projects
 ### TOHacks
 #### ChatMoji
 
