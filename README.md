@@ -148,7 +148,12 @@ TODO: Pictures
   Created in a team of 9 a gaming website web scrapper by using AWS. This project was broken into two sprints. The first sprint was about creating the backend by using Java, Gradle, Controllers, DTOs, model, repository, service from a domain model. Then, at the end of the sprint, we had to write user stories for what we implemented by automating them with Gherkin step definitions. Then, for the second sprint, we implementent the frontend by using Vue.js (HTML, CSS, JavaScript, axios, router, store and views). Then, at the end of the sprint, we had to test the frontend. For this project, we applied software development management techniques such as sprints, backlogs, burndown charts, scrum masters, product owners, story points, sprint reviews, sprint meetings.
 
   TODO Link
-  TODO video
+  <img width="1365" alt="Screenshot 2023-07-22 at 6 40 17 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/4995d231-4ef9-4233-832a-cb92592e753e">
+<img width="1210" alt="Screenshot 2023-07-22 at 6 40 28 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/e7a017b4-6713-4452-9451-9fa5326dee6e">
+<img width="1316" alt="Screenshot 2023-07-22 at 6 41 01 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/1e9cce5d-e6b5-4c7c-bda2-4ee94e9dff35">
+<img width="1329" alt="Screenshot 2023-07-22 at 6 41 59 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/e8e5b8d2-6820-472b-ab69-42fbeb2d8e2b">
+<img width="1384" alt="Screenshot 2023-07-22 at 6 43 56 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/25a73081-6ef6-4649-8baf-c9649369fa76">
+
 
 ### ECSE 223 (Model-Based Programming)
 #### Dive Safe Application
