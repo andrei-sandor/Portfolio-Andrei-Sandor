@@ -86,8 +86,6 @@ Used the ARMv9 private timer, switches, pushbuttons and HEX displays to create a
 
 
 
-
-
   - Basic Assembly concepts
   - Working subroutines
   - Branches and BL (branch and links)
@@ -97,7 +95,10 @@ Used the ARMv9 private timer, switches, pushbuttons and HEX displays to create a
   - ISR, IRQ, CRC
 
 
-https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/9d112afd-62d1-4180-a603-102c4a816822
+
+https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/767b9693-6ab1-4593-b88c-3112d0136bac
+
+
 
 ## Team school projects
 
