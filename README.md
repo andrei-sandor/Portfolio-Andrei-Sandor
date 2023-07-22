@@ -75,8 +75,7 @@ The program is used to a create a calculator that performs addition, subtraction
   - Pop and Push to store variables on the stack.
   - Working by including many drivers (Problem broken in smaller steps)
 
-
-https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/756276f1-59bc-42a7-88a2-3bb393214561
+https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/8178710c-c4ba-4ec9-9184-b0d528b932c5
 
 
   
@@ -84,6 +83,10 @@ https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/756276f
 ##### Whack-A-Mole (Using polling and interrupts concepts)
 
 Used the ARMv9 private timer, switches, pushbuttons and HEX displays to create a 30 seconds Whack-a-Mole game. The goal is to press the good pushbutton of where the circle/mole is in 30 seconds. The mole will reappear randomnly on a display after each correct hit. 
+
+
+
+
 
   - Basic Assembly concepts
   - Working subroutines
