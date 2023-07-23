@@ -100,15 +100,20 @@ Used the ARMv9 private timer, switches, pushbuttons and HEX displays to create a
 https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/767b9693-6ab1-4593-b88c-3112d0136bac
 
 #### Assignment 3
-##### Game-of-Life 
+##### Game of Life 
 
 - Basic Assembly concepts
 - Drivers
 - Subroutines 
 - VGA Pixel Buffer
 - Keyboard Inputs (arrows and movement)
+- Loops
+- Using the stack.
+- VGA
+- BL instructions
+  
 
-For the last assignemnt of ECSE 324, we had to create a game of life.
+For the last assignemnt of ECSE 324, we had to create a Game of Life. For this assignment, we were working with drivers. We first started working to implement in assembly a driver that takes as input keyboard interrupts to perform a movmement. We also created a driver that changes the VGA output. To implement, the whole game, we have to use these drivers and break the task in smaller ones. We had to use assembly (mainly loops, stack and bl instructions) to create the grid, the squares, the movements. Finally, we performed the main game logic by using the principles of loops, working with matrices to change the shape of the input.
 
 https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/10da427b-6cb1-4b83-974d-7358ae727514
 
@@ -238,7 +243,7 @@ Link Repo: https://github.com/andrei-sandor/TicTacToeJava
 - websockets
 - asyncio
 
-Created in a team of 4 an application that takes speach as input and convets it to text with emojis. This project was created for the TOHacks hackathon. This application was built by bracking it in many python files. We add a file that deals with the history of the chat, that connects the input to the app, that records message, that send message. We had another file that deals with receiving the message. We had an algorithm that converts text to an emoji. We also had an app that connects, listens and saves the message on a specific port to use for the frontend. We add another file that connects to a server for future development on the app.
+Created in a team of 4 an application that takes speach as input and convets it to text with emojis. This project was created for the TOHacks hackathon. This application was built by bracking it in many Python files. We add a file that deals with the history of the chat, that connects the input to the app, that records message, that sends messages. We had another file that deals with receiving the message. We had an algorithm that converts text to an emoji. We also had an app that connects, listens and saves the message on a specific port to use for the frontend. We added another file that connects to a server for future development on the app.
 
 Link repo: https://github.com/andrei-sandor/ChatMoji
 
