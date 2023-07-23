@@ -147,7 +147,7 @@ https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/10da427
   Created in a team of 6 a website (frontend/backend) for a fictual museum that has a manager, employees and visitors. This website was broken into 3 sprints. The first sprint was used to setup the backend from a non technical point of view. Then, the second sprint, we implemented the backend by using a database (postgreSQL) and JPA annotations. The backend was broken into service, DTOs and controllers. The backend was tested with Postman by using JSON files. Then, for the final sprint, we created the fontend by using Vue.js. We also learned project management techniques used in the industry like GitHub projects, issues, sprints meetings and sprint reviews.
 
 Link to the Github repo:
-https://github.com/McGill-ECSE321-Fall2022/project-group-18
+(https://github.com/andrei-sandor/project-group-18)
 
 <img width="759" alt="Screenshot 2023-07-22 at 6 52 12 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/acd75bc8-96b9-43e4-9b7a-8f14046ecec2">
 <img width="754" alt="Screenshot 2023-07-22 at 6 52 24 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/45cbeee8-9bf3-4ff7-84c1-842c68ad6a99">
