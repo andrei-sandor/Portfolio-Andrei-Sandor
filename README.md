@@ -149,6 +149,9 @@ https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/10da427
 Link to the Github repo:
 (https://github.com/andrei-sandor/project-group-18)
 
+To launch the backend, navigate to the museum-backend directory and run the command: ./gradlew bootRun
+To launch the frontend, navigate to the museum-frontend directory and run the command: npm run dev
+
 <img width="759" alt="Screenshot 2023-07-22 at 6 52 12 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/acd75bc8-96b9-43e4-9b7a-8f14046ecec2">
 <img width="754" alt="Screenshot 2023-07-22 at 6 52 24 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/45cbeee8-9bf3-4ff7-84c1-842c68ad6a99">
 <img width="756" alt="Screenshot 2023-07-22 at 6 52 32 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/39735acb-990e-4d6c-87c9-8f6dbd7f40ca">
@@ -216,6 +219,8 @@ Created a Python command line program of a 4 in a row game. This game is made fo
 
 Link to repo: https://github.com/andrei-sandor/4InARowPython
 
+Run the main.py file and play from the terminal!
+
 <img width="1437" alt="Screenshot 2023-06-25 at 11 57 13 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/cbc5c5ac-f344-4ed0-bf30-8c6d8921aa04">
 
 <img width="1419" alt="Screenshot 2023-06-25 at 11 58 07 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/bd522587-49e4-40fc-bc40-9465d55de9fb">
@@ -232,6 +237,8 @@ Link to repo: https://github.com/andrei-sandor/4InARowPython
   For this game, the structure of the game is simple. There is a big while loop that handles the state of the game. Inside the while loop, each player will have a section. There will be an input taken and converted to a position on the board. Then, there will be a check for a win or a draw. Then, the next player will have the same logic applied.
 
 Link Repo: https://github.com/andrei-sandor/TicTacToeJava
+
+Run TicTacToe.java fom the src file and play from the terminal
 
 <img width="1406" alt="Screenshot 2023-06-25 at 12 26 17 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/c8d67101-1187-499f-b019-5d963ccc46a8">
 
@@ -250,7 +257,7 @@ Link Repo: https://github.com/andrei-sandor/TicTacToeJava
 
 Created in a team of 4 an application that takes speach as input and convets it to text with emojis. This project was created for the TOHacks hackathon. This application was built by bracking it in many Python files. We add a file that deals with the history of the chat, that connects the input to the app, that records message, that sends messages. We had another file that deals with receiving the message. We had an algorithm that converts text to an emoji. We also had an app that connects, listens and saves the message on a specific port to use for the frontend. We added another file that connects to a server for future development on the app.
 
-Link repo: https://github.com/andrei-sandor/ChatMoji
+Link repo: https://github.com/andrei-sandor/ChatTOHacks
 
 <img width="790" alt="Screenshot 2023-06-18 at 11 07 06 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/7d03c97d-f4ba-4520-85de-ab8899a71447">
 
