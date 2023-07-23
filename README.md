@@ -1,5 +1,4 @@
 
-https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/7f4b2bb5-7f32-4b9b-9bf2-1514b17e7d17
 # Portfolio-Andrei-Sandor
 
 Hi, I am Andrei, a passionated of Machine Learning and Software Development from Canada 🇨🇦. 
