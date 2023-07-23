@@ -1,3 +1,5 @@
+
+https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/7f4b2bb5-7f32-4b9b-9bf2-1514b17e7d17
 # Portfolio-Andrei-Sandor
 
 Hi, I am Andrei, a passionated of Machine Learning and Software Development from Canada 🇨🇦. 
@@ -98,7 +100,18 @@ Used the ARMv9 private timer, switches, pushbuttons and HEX displays to create a
 
 https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/767b9693-6ab1-4593-b88c-3112d0136bac
 
+#### Assignment 3
+##### Game-of-Life 
 
+- Basic Assembly concepts
+- Drivers
+- Subroutines 
+- VGA Pixel Buffer
+- Keyboard Inputs (arrows and movement)
+
+For the last assignemnt of ECSE 324, we had to create a game of life.
+
+https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/10da427b-6cb1-4b83-974d-7358ae727514
 
 ## Team school projects
 
