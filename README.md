@@ -23,7 +23,6 @@ Hi, I am Andrei, a passionated of Machine Learning and Software Development from
   - Octave
 
 
- ![Andrei Sandor's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrei-sandor)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei-sandor)
  
