@@ -36,7 +36,7 @@ This portfolio will contain technical works done alone or in a team either for s
 4. [Team Out of School Projects](#Team-Out-of-School-Projects)
 
 ## Individual School Projects
-### ECSE 202 (Intro to Software Development)
+### ECSE 202 (Intro to Software Development, Fall 2021)
 #### Ping Pong Game
 - Java (ACM Package)
 - Eclipse IDE
@@ -123,7 +123,7 @@ https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/10da427
 
 ## Team school projects
 
-### ECSE 321 (Intro to Software Engineering)
+### ECSE 321 (Intro to Software Engineering, Fall 2022)
 #### Museum Website
   - Write requirements
   - Domain Model
@@ -156,7 +156,7 @@ To launch the frontend, navigate to the museum-frontend directory and run the co
 <img width="756" alt="Screenshot 2023-07-22 at 6 52 32 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/39735acb-990e-4d6c-87c9-8f6dbd7f40ca">
 
 
-### ECSE 428 (Software Engineering Practice)
+### ECSE 428 (Software Engineering Practice, Winter 2023)
 #### Web Scraper
   - GitHub issues, branches, projects and pull requests
   - Gradle
@@ -186,7 +186,7 @@ To launch the frontend, navigate to the museum-frontend directory and run the co
 <img width="1384" alt="Screenshot 2023-07-22 at 6 43 56 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/25a73081-6ef6-4649-8baf-c9649369fa76">
 
 
-### ECSE 223 (Model-Based Programming)
+### ECSE 223 (Model-Based Programming, Winter 2022)
 #### Dive Safe Application
   - Domain model
   - Constraints
@@ -209,7 +209,7 @@ Created a DiveSafe application which is a software system to facilitate diving a
 <img width="904" alt="Screenshot 2023-06-18 at 10 31 35 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/5b5e89b9-65fb-42c2-b542-d42a4df111d8">
 
 ## Individual Out of School Projects
-### 4InARowPython
+### 4InARowPython (August 2022)
 - Python
 - PyCharm
 - Command-Line Programming
@@ -226,7 +226,7 @@ Run the main.py file and play from the terminal!
 
 <img width="1415" alt="Screenshot 2023-06-25 at 11 59 25 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/0479557a-ea75-43e7-b2f6-f684ee87d268">
 
-### Tic-Tac-Toe
+### Tic-Tac-Toe (July 2022)
 - Java (JDK 19)
 - Command Line
 - IntelliJ IDEA
@@ -243,8 +243,8 @@ Run TicTacToe.java fom the src file and play from the terminal
 
 
 ## Team Out of School Projects
-### TOHacks
-#### ChatMoji
+### TOHacks (Summer 2022)
+#### ChatMoji 
 
 - Python
 - Flask
@@ -260,14 +260,14 @@ Link repo: https://github.com/andrei-sandor/ChatTOHacks
 
 <img width="790" alt="Screenshot 2023-06-18 at 11 07 06 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/7d03c97d-f4ba-4520-85de-ab8899a71447">
 
-### RUHackathon
+### RUHackathon (Summer 2022)
 #### CureSoft
 - Python
 - Pandas, Numpy
 - Sklearn (LogisticRegression, KNeighborsClassifier, SVC, DecisionTreeClassifier, RandomForestClassifier, GaussianNB)
 - SQlite
 
-Created in a teams of 3 for the RUHackathon an application that takes as input medical messurements and predicts whether the person has a disease like heart diseases, diabetes and liver diseases. To predict the disease machine learning and simple Python logic was used to produce this project. This work was then integrated with a login.py file that deals with taking the inputs, calling the algorithms mentioned previously and producing the outputs. There is also a functionality to login, to logout and to use the application (enter input and have access to previous inputs/history) by using a database sqlite.
+Created in a teams of 3 for the RUHackathon an application that takes as input medical messurements and predicts whether the person has a disease like heart diseases, diabetes and liver diseases. To predict the disease machine learning and simple Python logic was used to produce this project. This work was then integrated with a login.py file that deals with taking the inputs, calling the algorithms mentioned previously and producing the outputs. There is also a functionality to login, to logout and to use the application (enter input and have access to previous inputs/history) by using a sqlite database.
 
 Repo Link:
 https://github.com/andrei-sandor/RUHackathon
