@@ -254,7 +254,7 @@ Run TicTacToe.java fom the src file and play from the terminal
 - websockets
 - asyncio
 
-Created in a team of 4 an application that takes speach as input and convets it to text with emojis. This project was created for the TOHacks hackathon. This application was built by bracking it in many Python files. We add a file that deals with the history of the chat, that connects the input to the app, that records message, that sends messages. We had another file that deals with receiving the message. We had an algorithm that converts text to an emoji. We also had an app that connects, listens and saves the message on a specific port to use for the frontend. We added another file that connects to a server for future development on the app.
+Created in a team of 4 an application that takes speach as input and convets it to text with emojis. This project was created for the TOHacks hackathon. This application was built by bracking it in many Python files. We add a file that deals with the history of the chat, that connects the input to the app, that records message, that sends messages. We had another file that deals with receiving the message. We had an algorithm that converts text to an emoji. We also had an app that connects, listens and saves the message on a specific port to use for the frontend. We added another file that connects to a server for future development on the app. In order to collect the users audio input we used the pyaudio and to process the audio we used the AIservice assembly AI that the sponsers of the TOHackaton provided to us.
 
 Link repo: https://github.com/andrei-sandor/ChatTOHacks
 
