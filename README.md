@@ -61,7 +61,9 @@ Contact me at: andrei.sandor@mail.mcgill.ca
   - InteliJ
   - JSON
 
-  Created in a team of 6 a website (frontend/backend) for a fictual museum that has a manager, employees and visitors. This website was broken into 3 sprints. The first sprint was used to setup the backend from a non technical point of view. Then, the second sprint, we implemented the backend by using a database (postgreSQL) and JPA annotations. The backend was broken into service, DTOs and controllers. The backend was tested with Postman by using JSON files. Then, for the final sprint, we created the fontend by using Vue.js. We also learned project management techniques used in the industry like GitHub projects, issues, sprints meetings and sprint reviews.
+  Created in a team of 6 a website (frontend/backend) for a fictual museum that has a manager, employees and visitors. All employees of the museum will be able to move artifacts around from one room to another. Customers will be able to view artifacts on display, make loan requests, and donate new artifacts to the museum. The museum owner will be able to perform any employee action, but will also be able to perform additional administrative tasks.
+  
+This website was broken into 3 sprints. The first sprint was used to setup the backend from a non technical point of view. Then, the second sprint, we implemented the backend by using a database (postgreSQL) and JPA annotations. The backend was broken into service, DTOs and controllers. The backend was tested with Postman by using JSON files. Then, for the final sprint, we created the fontend by using Vue.js. We also learned project management techniques used in the industry like GitHub projects, issues, sprints meetings and sprint reviews.
 
 Link to the Github repo:
 (https://github.com/andrei-sandor/project-group-18)
