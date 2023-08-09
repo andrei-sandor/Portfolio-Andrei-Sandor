@@ -165,6 +165,8 @@ https://github.com/andrei-sandor/RUHackathon
 
 Created a Python command line program of a 4 in a row game. This game is made for 2 players. At each turn, a player is asked to which colmnn he wishes to insert its token. Player 1 will have a token 'X' and Player two will have a token '0'. When, the user will decide the column, the current state of the board.table will be shown. The table will be shown at every decision of the player. The program handles correctly the placement of the tokens. It also handles correctly out-of-bounds decisions. The game will be found in a while loop until it reaches the a case that a player has a four tokens placed horizontally, vertically or diagonally. This game was optimized to be the most elegent possible in the code while producing rigurous results.
 
+The game is broken in many functions to make the game more elegent and simple to understand. Useful multi-dimensional array techniques were used to make simple and efficient game.
+
 Link to repo: https://github.com/andrei-sandor/4InARowPython
 
 Run the main.py file and play from the terminal!
@@ -182,7 +184,7 @@ Run the main.py file and play from the terminal!
 
   Created a tic-tac-toe game in Java that runs on the command line. This game is interactive; there are two players. The turn of each player will alternate until someone one or there is a draw. At this point, the game will restart. At each turn, the player will see the current state of the game. The player will have a chance to input his or her symbol (X or 0) by entering a number between 0 and 8 which representes a position on the board. This alternation will happen until a player wins or there is a draw.
 
-  For this game, the structure of the game is simple. There is a big while loop that handles the state of the game. Inside the while loop, each player will have a section. There will be an input taken and converted to a position on the board. Then, there will be a check for a win or a draw. Then, the next player will have the same logic applied.
+  For this game, the structure of the game is simple. There is a big while loop that handles the state of the game. Inside the while loop, each player will have a section. There will be an input taken and converted to a position on the board. Then, there will be a check for a win or a draw. Then, the next player will have the same logic applied. There are also two functions that deal with win and draw for which an efficient method to work with multidimenstional arrays is used.
 
 Link Repo: https://github.com/andrei-sandor/TicTacToeJava
 
