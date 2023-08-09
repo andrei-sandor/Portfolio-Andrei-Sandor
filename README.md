@@ -163,7 +163,7 @@ https://github.com/andrei-sandor/RUHackathon
 - PyCharm
 - Command-Line Programming
 
-Created a Python command line program of a 4 in a row game. This game is made for 2 players. At each turn, a player is asked to which colmnn he wishes to insert its token. Player 1 will have a token 'X' and Player two will have a token '0'. When, the user will decide the column, the current state of the board.table will be shown. The table will be shown at every decision of the player. The program handles correctly the placement of the tokens. It also handles correctly out-of-bounds decisions. The game will be found in a while loop until it reaches the a case that a player has a four tokens placed horizontally, vertically or diagonally.
+Created a Python command line program of a 4 in a row game. This game is made for 2 players. At each turn, a player is asked to which colmnn he wishes to insert its token. Player 1 will have a token 'X' and Player two will have a token '0'. When, the user will decide the column, the current state of the board.table will be shown. The table will be shown at every decision of the player. The program handles correctly the placement of the tokens. It also handles correctly out-of-bounds decisions. The game will be found in a while loop until it reaches the a case that a player has a four tokens placed horizontally, vertically or diagonally. This game was optimized to be the most elegent possible in the code while producing rigurous results.
 
 Link to repo: https://github.com/andrei-sandor/4InARowPython
 
@@ -198,7 +198,7 @@ Run TicTacToe.java fom the src file and play from the terminal
 - Eclipse IDE
 - Object-Oriented Programming
 
-First indiviudal assignment done at McGill University in Fall 2021. This assignment consists of creating a Ping Pong game against the computer or playing alone with the wall. This assignment was done in 4 assignemnts focusing highly to promote understanding of object-oriented programming. Handle the ball, the player paddle, the paddle of the computer, the simulation and the table of the game in different classes. Used real physics equations to make the game like in real life. The GUI and the ball interactions were done. After each assignment, graders made sure we produce quality code and comments to learn more than just the actual grade we have.
+First indiviudal assignment done at McGill University in Fall 2021. This assignment consists of creating a Ping Pong game against the computer or playing alone with the wall. This assignment was done in 4 assignemnts focusing highly to promote understanding of object-oriented programming. Handle the ball, the player paddle, the paddle of the computer, the simulation and the table of the game in different classes. Used real physics equations to make the game like in real life. The GUI and the ball interactions were done. The assignment started simple with view interactions, but eventually grew more fromAfter each assignment, graders made sure we produce quality code and comments to learn more than just the actual grade we have.
 
 
 <img width="937" alt="Screenshot 2023-06-17 at 12 34 40 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/7da8cb49-9f7f-4472-88b6-45d880f8cf2a">
