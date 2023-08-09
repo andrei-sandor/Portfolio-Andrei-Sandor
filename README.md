@@ -31,10 +31,11 @@ This portfolio will contain technical works done alone or in a team either for s
 Contact me at: andrei.sandor@mail.mcgill.ca
 
 # Table of Contents
-1. [Individual School Projects](#Individual-School-Projects)
-2. [Team school projects](#Team-School-Projects)
+1. [Team school projects](#Team-School-Projects)
+2. [Team Out of School Projects](#Team-Out-of-School-Projects)
 3. [Individual Out of School Projects](#Individual-Out-of-School-Projects)
-4. [Team Out of School Projects](#Team-Out-of-School-Projects)
+4. [Individual School Projects](#Individual-School-Projects)
+   
 
 ## Individual School Projects
 ### ECSE 202 (Intro to Software Development, Fall 2021)
