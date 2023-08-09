@@ -27,7 +27,8 @@ Hi, I am Andrei, a passionated of Machine Learning and Software Development from
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei-sandor)
  
 This portfolio will contain technical works done alone or in a team either for school or outiside of school.
-  
+
+Contact me at: andrei.sandor@mail.mcgill.ca
 
 # Table of Contents
 1. [Individual School Projects](#Individual-School-Projects)
@@ -42,7 +43,7 @@ This portfolio will contain technical works done alone or in a team either for s
 - Eclipse IDE
 - Object-Oriented Programming
 
-First indiviudal assignment done at McGill University in Fall 2021. This assignment consists of creating a Ping Pong game against the computer or playing alone with the wall. This assignment was done in 4 assignemnts focusing highly to promote understanding of object-oriented programming. Handle the ball, the player paddle, the paddle of the computer, the simulation and the table of the game in different classes. Used real physics equations to make the game like in real life. The GUI and the ball interactions were done.
+First indiviudal assignment done at McGill University in Fall 2021. This assignment consists of creating a Ping Pong game against the computer or playing alone with the wall. This assignment was done in 4 assignemnts focusing highly to promote understanding of object-oriented programming. Handle the ball, the player paddle, the paddle of the computer, the simulation and the table of the game in different classes. Used real physics equations to make the game like in real life. The GUI and the ball interactions were done. After each assignment, graders made sure we produce quality code and comments to learn more than just the actual grade we have.
 
 
 <img width="937" alt="Screenshot 2023-06-17 at 12 34 40 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/7da8cb49-9f7f-4472-88b6-45d880f8cf2a">
@@ -51,13 +52,13 @@ First indiviudal assignment done at McGill University in Fall 2021. This assignm
   - C (<stdio.h>, <stdlib.h>, <string.h> <ctype.h>)
   - Eclipse IDE for C
 
-Second individual assignment done at McGill University in Fall 2021. This assignemnt consists of creating a base to base calculator; it consists of converting a number in base in [2,36] to a base in [2,36]. This programs introduced the concept of errors in input code.
+Second individual assignment done at McGill University in Fall 2021. This assignment consists of creating a base to base calculator; it consists of converting a number in base in [2,36] to a base in [2,36]. This programs introduced the concept of errors in input code. This assignment was done in such a way to build a program without using object-oriented techniques. We learned how to work in functions to modularized the code such that we learn to break our code efficently for further assignemnt. Again, graders gave valuable feedback to improve our coding skills.
 
   - Learned functions prototypes
   - Learned definitions
   - Learned global variables
   - Learned to work inside main()
-  - Learned to wowk with strings
+  - Learned to work with strings
   - Learn basics C constructs
 
 
