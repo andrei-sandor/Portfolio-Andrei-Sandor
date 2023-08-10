@@ -100,6 +100,7 @@ To launch the frontend, navigate to the museum-frontend directory and run the co
   
   This project was broken into two sprints. The first sprint was about creating the backend by using Java, Gradle, Controllers, DTOs, model, repository, service from a domain model. Then, at the end of the sprint, we had to write user stories for what we implemented by automating them with Gherkin step definitions. Then, for the second sprint, we implementent the frontend by using Vue.js (HTML, CSS, JavaScript, axios, router, store and views). Then, at the end of the sprint, we had to test the frontend. For this project, we applied software development management techniques such as sprints, backlogs, burndown charts, scrum masters, product owners, story points, sprint reviews, sprint meetings.
 
+PRIVATE REPO: Can provide the repo if needed, contact me if needed.
 
   <img width="1365" alt="Screenshot 2023-07-22 at 6 40 17 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/4995d231-4ef9-4233-832a-cb92592e753e">
 <img width="1210" alt="Screenshot 2023-07-22 at 6 40 28 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/e7a017b4-6713-4452-9451-9fa5326dee6e">
@@ -129,7 +130,8 @@ To launch the frontend, navigate to the museum-frontend directory and run the co
 Created a DiveSafe application which is a software system to facilitate diving activities in the island of Atlantis. Visitors of the island can register as a member sand book dive guides, equipment and hotels. There is an administrator that can handle the website. He will deal with the inventory and the dive guides.
 
 There was a domain model that was first created to respect the requirements of the administrator of the diving program. Then, this domain model was translated into UMPLE code. Domain constraints were included. For the second sprint, we implemented completely a feature of the application. A controller and Gherkin step definitions were done. For the third sprint, we continued to build the application by introducing state machines. Finally, for the last sprint, we implemented the frontend by using Javafx and CSS. First university project where we add to work in teams.
-    
+
+PRIVATE REPO: Can provide the repo if needed, contact me if needed.
 <img width="904" alt="Screenshot 2023-06-18 at 10 31 35 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/5b5e89b9-65fb-42c2-b542-d42a4df111d8">
 
 
@@ -208,7 +210,7 @@ Run TicTacToe.java fom the src file and play from the terminal
 - Eclipse IDE
 - Object-Oriented Programming
 
-First indiviudal assignment done at McGill University in Fall 2021. This assignment consists of creating a Ping Pong game against the computer or playing alone with the wall. This assignment was done in 4 assignemnts focusing highly to promote understanding of object-oriented programming. Handle the ball, the player paddle, the paddle of the computer, the simulation and the table of the game in different classes. Used real physics equations to make the game like in real life. The GUI and the ball interactions were done. The assignment started simple with view interactions, but eventually grew more fromAfter each assignment, graders made sure we produce quality code and comments to learn more than just the actual grade we have.
+First indiviudal assignment done at McGill University in Fall 2021. This assignment consists of creating a Ping Pong game against the computer or playing alone with the wall. This assignment was done in 4 assignemnts focusing highly to promote understanding of object-oriented programming. Handle the ball, the player paddle, the paddle of the computer, the simulation and the table of the game in different classes. Used real physics equations to make the game like in real life. The GUI (ACM Package) and the ball interactions were done. The assignment started simple with view interactions, but eventually grew more. After each assignment, graders made sure we produce quality code and comments to learn more than just the actual grade we have.
 
 
 <img width="937" alt="Screenshot 2023-06-17 at 12 34 40 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/7da8cb49-9f7f-4472-88b6-45d880f8cf2a">
@@ -249,7 +251,6 @@ The program is used to a create a calculator that performs addition, subtraction
 https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/8178710c-c4ba-4ec9-9184-b0d528b932c5
 
 
-  
 
 ##### Whack-A-Mole (Using polling and interrupts concepts)
 
