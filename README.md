@@ -145,7 +145,9 @@ There was a domain model that was first created to respect the requirements of t
 - websockets
 - asyncio
 
-Created in a team of 4 an application that takes speach as input and convets it to text with emojis. This project was created for the TOHacks hackathon. This application was built by bracking it in many Python files. We add a file that deals with the history of the chat, that connects the input to the app, that records message, that sends messages. We had another file that deals with receiving the message. We had an algorithm that converts text to an emoji. We also had an app that connects, listens and saves the message on a specific port to use for the frontend. We added another file that connects to a server for future development on the app. In order to collect the users audio input we used the pyaudio and to process the audio we used the AIservice assembly AI that the sponsers of the TOHackaton provided to us.
+Created in a team of 4 an application that takes speach as input and convets it to text with emojis. This project was created for the TOHacks hackathon. 
+
+This application was built by bracking it in many Python files. We add a file that deals with the history of the chat, that connects the input to the app, that records message, that sends messages by using websockets, audioop and pyaudio libraires. We had another file that deals with receiving the message. We had an algorithm that converts text to an emoji based on extracting features from the input with simple strings attributes. We also had an app that connects, listens and saves the message on a specific port to use for the frontend. We added another file that connects to a server for future development on the app. In order to collect the users audio input we used the pyaudio and to process the audio we used the AIservice assembly AI that the sponsers of the TOHackaton provided to us. Furthermore, a complete and complex CSS file was produced to come with the HTML file that as a place to record the message and a box to output the message. There is also a page where you can login and logout.
 
 Link repo: https://github.com/andrei-sandor/ChatTOHacks
 
@@ -158,7 +160,9 @@ Link repo: https://github.com/andrei-sandor/ChatTOHacks
 - Sklearn (LogisticRegression, KNeighborsClassifier, SVC, DecisionTreeClassifier, RandomForestClassifier, GaussianNB)
 - SQlite
 
-Created in a teams of 3 for the RUHackathon an application that takes as input medical messurements and predicts whether the person has a disease like heart diseases, diabetes and liver diseases. To predict the disease machine learning and simple Python logic was used to produce this project. This work was then integrated with a login.py file that deals with taking the inputs, calling the algorithms mentioned previously and producing the outputs. There is also a functionality to login, to logout and to use the application (enter input and have access to previous inputs/history) by using a sqlite database.
+Created in a teams of 3 for the RUHackathon an application that takes as input medical messurements and predicts whether the person has a disease like heart diseases, diabetes and liver diseases. The user can access throught the command line the account and they can select which disease they want to be tested. There is a complex process to handle the data. Also, there is like an admin/doctor that can see the results and register the patient. There is functionality to handle the login. 
+
+To predict the disease, machine learning and simple Python logic was used to produce this project. For the machine learning model, RandomForestClassifier was used on 80/20 startegy on data This work was then integrated with a login.py file that deals with taking the inputs, calling the algorithms mentioned previously and producing the outputs. There is also a functionality to login, to logout and to use the application (enter input and have access to previous inputs/history) by using a sqlite database.
 
 Repo Link:
 https://github.com/andrei-sandor/RUHackathon
@@ -169,9 +173,7 @@ https://github.com/andrei-sandor/RUHackathon
 - PyCharm
 - Command-Line Programming
 
-Created a Python command line program of a 4 in a row game. This game is made for 2 players. At each turn, a player is asked to which colmnn he wishes to insert its token. Player 1 will have a token 'X' and Player two will have a token '0'. When, the user will decide the column, the current state of the board.table will be shown. The table will be shown at every decision of the player. The program handles correctly the placement of the tokens. It also handles correctly out-of-bounds decisions. The game will be found in a while loop until it reaches the a case that a player has a four tokens placed horizontally, vertically or diagonally. This game was optimized to be the most elegent possible in the code while producing rigurous results.
-
-The game is broken in many functions to make the game more elegent and simple to understand. Useful multi-dimensional array techniques were used to make simple and efficient game.
+Created a Python command line program of a 4 in a row game. This game is made for 2 players. At each turn, a player is asked to which colmnn he wishes to insert its token. Player 1 will have a token 'X' and Player two will have a token '0'. When, the user will decide the column, the current state of the board.table will be shown. The table will be shown at every decision of the player. The program handles correctly the placement of the tokens. It also handles correctly out-of-bounds decisions. The game will be found in a while loop until it reaches the a case that a player has a four tokens placed horizontally, vertically or diagonally. This game was optimized to be the most elegent possible in the code while producing rigurous results. The game is broken in many functions to make the game more elegent and simple to understand. Useful multi-dimensional array techniques were used to make simple and efficient game.
 
 Link to repo: https://github.com/andrei-sandor/4InARowPython
 
