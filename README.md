@@ -96,9 +96,11 @@ To launch the frontend, navigate to the museum-frontend directory and run the co
   - Domain model
   - User Stories
 
-  Created in a team of 9 a gaming website web scrapper by using AWS. This project was broken into two sprints. The first sprint was about creating the backend by using Java, Gradle, Controllers, DTOs, model, repository, service from a domain model. Then, at the end of the sprint, we had to write user stories for what we implemented by automating them with Gherkin step definitions. Then, for the second sprint, we implementent the frontend by using Vue.js (HTML, CSS, JavaScript, axios, router, store and views). Then, at the end of the sprint, we had to test the frontend. For this project, we applied software development management techniques such as sprints, backlogs, burndown charts, scrum masters, product owners, story points, sprint reviews, sprint meetings.
+  Created in a team of 9 a gaming website web scrapper by using AWS. This website has many functionalities. We can create, delete and update users. There is an admin that can be create which can ban people. The list of games can be querried by users and admin. Game ratings can be done. Games can be added to a user's list which can create his list. There is also a functionality to select games with a price threshold. The games' stores can be added to the website and edited.
+  
+  This project was broken into two sprints. The first sprint was about creating the backend by using Java, Gradle, Controllers, DTOs, model, repository, service from a domain model. Then, at the end of the sprint, we had to write user stories for what we implemented by automating them with Gherkin step definitions. Then, for the second sprint, we implementent the frontend by using Vue.js (HTML, CSS, JavaScript, axios, router, store and views). Then, at the end of the sprint, we had to test the frontend. For this project, we applied software development management techniques such as sprints, backlogs, burndown charts, scrum masters, product owners, story points, sprint reviews, sprint meetings.
 
-  TODO Link
+
   <img width="1365" alt="Screenshot 2023-07-22 at 6 40 17 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/4995d231-4ef9-4233-832a-cb92592e753e">
 <img width="1210" alt="Screenshot 2023-07-22 at 6 40 28 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/e7a017b4-6713-4452-9451-9fa5326dee6e">
 <img width="1316" alt="Screenshot 2023-07-22 at 6 41 01 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/1e9cce5d-e6b5-4c7c-bda2-4ee94e9dff35">
