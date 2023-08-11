@@ -239,7 +239,7 @@ Second individual assignment done at McGill University in Fall 2021. This assign
 
 ##### Calculator
 
-The program is used to a create a calculator that performs addition, subtraction, multipliaction and division on decimal numbers. The calculator works by using switches, pushbuttons and HEX displays.
+The program is used to a create a calculator that performs addition, subtraction, multipliaction and division on hexadecimal numbers. The calculator works by using switches, pushbuttons and HEX displays.
 
   - Basic Assembly concepts
   - Working subroutines
