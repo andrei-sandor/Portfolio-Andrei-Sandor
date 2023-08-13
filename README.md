@@ -110,7 +110,6 @@ Tools:
 
 PRIVATE REPO: Can provide the repo if needed, contact me if needed.
 
-<img width="1329" alt="Screenshot 2023-07-22 at 6 41 59 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/43b75b2d-7f87-49ce-aaba-a7e495897847">
 <img width="1316" alt="Screenshot 2023-07-22 at 6 41 01 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/01b520ea-3c53-4462-a24b-744c82138411">
 
 
