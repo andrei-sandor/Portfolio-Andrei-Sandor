@@ -200,6 +200,7 @@ https://github.com/andrei-sandor/RUHackathon
 ### 4InARowPython (August 2022)
 - Created the classical four in a row project
 - Created an easy to use command-line game.
+
 Tools:
 - Python
 - PyCharm
