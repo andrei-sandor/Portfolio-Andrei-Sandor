@@ -45,8 +45,8 @@ Contact me at: andrei.sandor@mail.mcgill.ca
 #### Museum Website
 
   - Created a museum website used by customers, employees and administratior.
-  - Developed the backend using Java (Spring) by using a database (PostgreSQL) and the frontend with Vue.js (HTML, CSS and Javascript)
-  - Worked in a team of six student developers by using GitHub to manage the project
+  - Developed the backend using Java and the frontend with Vue.js (HTML, CSS and Javascript)
+  - Collaborated in a team of six student developers by using GitHub.
 
   Tools:
   - Requirements
@@ -89,8 +89,8 @@ To launch the frontend, navigate to the museum-frontend directory and run the co
 #### Gamming Price Tracker
 
   - Created a gamming price tracker website for video games and other related products by using the powerful AWS serivce as database.
-  - Created the backend by using Java (Spring) and tested it with Gherkin. Created a fronted by using complex features of Vue.js
-  - Collaborated with a team of 9 students in two sprints by using Github as project management tool
+  - Created the backend by using Java and the fronted by using complex features of Vue.js
+  - Collaborated with a team of 9 students in two sprints by using Github as project management tool.
   
 Tools:
   - GitHub issues, branches, projects and pull requests
@@ -129,7 +129,7 @@ PRIVATE REPO: Can provide the repo if needed, contact me if needed.
 
   - Created an application for a diving community
   - Created the "backend" by using UMPLE code integrated with Java. This was tested with Gherkin step definitions
-  - Created the frontend/ GUI by using JavaFx to implement our feature.
+  - Created the frontend/GUI by using JavaFx to implement our feature.
   - Collaborated in a team of six to plan the programming work and the non programming work like domain model and state machines. 
 
   Tools:
