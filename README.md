@@ -197,7 +197,7 @@ https://github.com/andrei-sandor/RUHackathon
 
 ## Individual Out of School Projects
 ### 4InARowPython (August 2022)
-- Created the classical four in a row project
+- Created the classical four in a row game.
 - Created an easy to use command-line game.
 
 Tools:
