@@ -161,6 +161,9 @@ PRIVATE REPO: Can provide the repo if needed, contact me if needed.
 ### TOHacks (Summer 2022)
 #### ChatMoji 
 
+- Created in a team of 4 an application that takes speach as input and convets it to text with emojis.
+- Developed a backend in Python by using speach libraries and the frontend by using the Flask framework.
+  
 Tools:
 - Python
 - Flask
@@ -170,7 +173,7 @@ Tools:
 - websockets
 - asyncio
 
-Created in a team of 4 an application that takes speach as input and convets it to text with emojis. This project was created for the TOHacks hackathon. 
+
 
 This application was built by bracking it in many Python files. We add a file that deals with the history of the chat, that connects the input to the app, that records message, that sends messages by using websockets, audioop and pyaudio libraires. We had another file that deals with receiving the message. We had an algorithm that converts text to an emoji based on extracting features from the input with simple strings attributes. We also had an app that connects, listens and saves the message on a specific port to use for the frontend. We added another file that connects to a server for future development on the app. In order to collect the users audio input we used the pyaudio and to process the audio we used the AIservice assembly AI that the sponsers of the TOHackaton provided to us. Furthermore, a complete and complex CSS file was produced to come with the HTML file that as a place to record the message and a box to output the message. There is also a page where you can login and logout.
 
@@ -180,6 +183,7 @@ Link repo: https://github.com/andrei-sandor/ChatTOHacks
 
 ### RUHackathon (Summer 2022)
 #### CureSoft
+Tools:
 - Python
 - Pandas, Numpy
 - Sklearn (LogisticRegression, KNeighborsClassifier, SVC, DecisionTreeClassifier, RandomForestClassifier, GaussianNB)
@@ -194,6 +198,9 @@ https://github.com/andrei-sandor/RUHackathon
 
 ## Individual Out of School Projects
 ### 4InARowPython (August 2022)
+- Created the classical four in a row project
+- Created an easy to use command-line game.
+Tools:
 - Python
 - PyCharm
 - Command-Line Programming
@@ -211,6 +218,10 @@ Run the main.py file and play from the terminal!
 <img width="1415" alt="Screenshot 2023-06-25 at 11 59 25 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/0479557a-ea75-43e7-b2f6-f684ee87d268">
 
 ### Tic-Tac-Toe (July 2022)
+- Recreated the famouns tic-tac-toe game in Python.
+- Built an easy to use interace with the command-line.
+
+Tools:
 - Java (JDK 19)
 - Command Line
 - IntelliJ IDEA
@@ -229,6 +240,7 @@ Run TicTacToe.java fom the src file and play from the terminal
 ## Individual School Projects
 ### ECSE 202 (Intro to Software Development, Fall 2021)
 #### Ping Pong Game
+Tools:
 - Java (ACM Package)
 - Eclipse IDE
 - Object-Oriented Programming
