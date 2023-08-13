@@ -274,14 +274,13 @@ The program is used to a create a calculator that performs addition, subtraction
   - Working by including many drivers (Problem broken in smaller steps)
 
 
-https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/4ef5c66c-a5c0-48bb-a44c-5039babe1428
-
+<img width="420" alt="Screenshot 2023-08-13 at 10 28 21 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/5b2602fa-119e-4b65-930a-01470db52101">
 
 
 
 ##### Whack-A-Mole (Using polling and interrupts concepts)
 
-Used the ARMv9 private timer, switches, pushbuttons and HEX displays to create a 30 seconds Whack-a-Mole game. The goal is to press the good pushbutton of where the circle/mole is in 30 seconds. The mole will reappear randomnly on a display after each correct hit. 
+Used the ARMv9 private timer, switches, pushbuttons and HEX displays to create a 30 seconds Whack-a-Mole game. The goal is to press the good pushbutton of where the circle/mole is in 30 seconds. The mole will reappear randomnly on a display after each correct hit. At the end, the score will be deplayed. There is functionality to start/stop and restart.
 
 
 
@@ -293,9 +292,9 @@ Used the ARMv9 private timer, switches, pushbuttons and HEX displays to create a
   - Working by including many drivers (Problem broken in smaller steps)
   - ISR, IRQ, CRC
 
+<img width="410" alt="Screenshot 2023-08-13 at 10 28 07 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/dbc9a1da-53ac-4e96-87a3-bd718f2e8b47">
 
 
-https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/cbb2e33a-d118-4e8a-942d-58648b3646d8
 
 
 #### Assignment 3
@@ -314,5 +313,5 @@ https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/cbb2e33
 
 For the last assignemnt of ECSE 324, we had to create a Game of Life. For this assignment, we were working with drivers. We first started working to implement in assembly a driver that takes as input keyboard interrupts to perform a movmement. We also created a driver that changes the VGA output. To implement, the whole game, we have to use these drivers and break the task in smaller ones. We had to use assembly (mainly loops, stack and bl instructions) to create the grid, the squares, the movements. Finally, we performed the main game logic by using the principles of loops, working with matrices to change the shape of the input.
 
-https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/d8c8a04e-efec-432a-911d-cb25e2aa2193
+<img width="412" alt="Screenshot 2023-08-13 at 10 27 47 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/0967f24c-1dda-4b29-80af-9f446c428824">
 
