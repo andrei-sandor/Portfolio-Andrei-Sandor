@@ -88,9 +88,9 @@ To launch the frontend, navigate to the museum-frontend directory and run the co
 ### ECSE 428 (Software Engineering Practice, Winter 2023)
 #### Gamming Price Tracker
 
-  - Created a gamming price tracker website for video games and other related products by using the powerful AWS serivce as batabase.
-  - Created the backend by using Java (Spring) and tested it with Gherkin. Fronted also included
-  - Collaborated with a team of 9 students in two sprints by using Github
+  - Created a gamming price tracker website for video games and other related products by using the powerful AWS serivce as database.
+  - Created the backend by using Java (Spring) and tested it with Gherkin. Created a fronted by using complex features of Vue.js
+  - Collaborated with a team of 9 students in two sprints by using Github as project management tool
   
 Tools:
   - GitHub issues, branches, projects and pull requests
@@ -131,7 +131,8 @@ PRIVATE REPO: Can provide the repo if needed, contact me if needed.
   - Created the "backend" by using UMPLE code integrated with Java. This was tested with Gherkin step definitions
   - Created the frontend/ GUI by using JavaFx to implement our feature.
   - Collaborated in a team of six to plan the programming work and the non programming work like domain model and state machines. 
-  
+
+  Tools:
   - Domain model
   - Constraints
   - Java
