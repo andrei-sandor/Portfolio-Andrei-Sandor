@@ -46,7 +46,7 @@ Contact me at: andrei.sandor@mail.mcgill.ca
 
   - Created a museum website used by customers, employees and administratior.
   - Developed the backend using Java (Spring) by using a database (PostgreSQL) and the frontend with Vue.js (HTML, CSS and Javascript)
-  - Worked in a team of six student developers by using GitHbu to manage the project
+  - Worked in a team of six student developers by using GitHub to manage the project
 
   Tools:
   - Requirements
