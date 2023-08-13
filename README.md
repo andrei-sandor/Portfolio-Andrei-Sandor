@@ -110,8 +110,11 @@ Tools:
 
 PRIVATE REPO: Can provide the repo if needed, contact me if needed.
 
-<img width="1316" alt="Screenshot 2023-07-22 at 6 41 01 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/01b520ea-3c53-4462-a24b-744c82138411">
-
+<img width="1384" alt="Screenshot 2023-07-22 at 6 43 56 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/43e91540-ea0e-4bb0-a193-4004879474c9">
+<img width="1329" alt="Screenshot 2023-07-22 at 6 41 59 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/9ed1d75a-0fc7-429e-8522-3cc6a037ffd7">
+<img width="1316" alt="Screenshot 2023-07-22 at 6 41 01 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/6ce035e6-b2da-4462-acb6-fcc0758a83a4">
+<img width="1210" alt="Screenshot 2023-07-22 at 6 40 28 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/c6db96fe-c5e8-4cd0-bb5d-aa1d2a4d13d2">
+<img width="1365" alt="Screenshot 2023-07-22 at 6 40 17 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/7fa06d8e-930b-489e-80f4-10dc01104af1">
 
 
 
