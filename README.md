@@ -108,7 +108,6 @@ Tools:
   
   This project was broken into two sprints. The first sprint was about creating the backend by using Java, Gradle, Controllers, DTOs, model, repository, service from a domain model. Then, at the end of the sprint, we had to write user stories for what we implemented by automating them with Gherkin step definitions. Then, for the second sprint, we implementent the frontend by using Vue.js (HTML, CSS, JavaScript, axios, router, store and views). Then, at the end of the sprint, we had to test the frontend. For this project, we applied software development management techniques such as sprints, backlogs, burndown charts, scrum masters, product owners, story points, sprint reviews, sprint meetings.
 
-PRIVATE REPO: Can provide the repo if needed, contact me if needed.
 
 <img width="1384" alt="Screenshot 2023-07-22 at 6 43 56 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/43e91540-ea0e-4bb0-a193-4004879474c9">
 <img width="1329" alt="Screenshot 2023-07-22 at 6 41 59 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/9ed1d75a-0fc7-429e-8522-3cc6a037ffd7">
