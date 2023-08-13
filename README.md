@@ -22,7 +22,8 @@ Hi, I am Andrei, a passionated of Machine Learning and Software Development from
   - R
   - Octave
 
-
+Tools: 
+  VSCode, Anaconda, Eclipse, GitHub, JIRA, SVC, Spring, Hibernate, PostgreSQL, Flask, XCode, 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei-sandor)
  
