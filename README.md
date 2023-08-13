@@ -109,11 +109,12 @@ Tools:
 
 PRIVATE REPO: Can provide the repo if needed, contact me if needed.
 
-  <img width="1365" alt="Screenshot 2023-07-22 at 6 40 17 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/4995d231-4ef9-4233-832a-cb92592e753e">
-<img width="1210" alt="Screenshot 2023-07-22 at 6 40 28 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/e7a017b4-6713-4452-9451-9fa5326dee6e">
-<img width="1316" alt="Screenshot 2023-07-22 at 6 41 01 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/1e9cce5d-e6b5-4c7c-bda2-4ee94e9dff35">
-<img width="1329" alt="Screenshot 2023-07-22 at 6 41 59 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/e8e5b8d2-6820-472b-ab69-42fbeb2d8e2b">
-<img width="1384" alt="Screenshot 2023-07-22 at 6 43 56 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/25a73081-6ef6-4649-8baf-c9649369fa76">
+<img width="1384" alt="Screenshot 2023-07-22 at 6 43 56 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/73f6bd6f-10e9-48b0-b607-b12b66e4741f">
+<img width="1329" alt="Screenshot 2023-07-22 at 6 41 59 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/43b75b2d-7f87-49ce-aaba-a7e495897847">
+<img width="1316" alt="Screenshot 2023-07-22 at 6 41 01 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/01b520ea-3c53-4462-a24b-744c82138411">
+<img width="1210" alt="Screenshot 2023-07-22 at 6 40 28 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/78d46464-cd7e-42dd-8f40-11e11add93ff">
+<img width="1365" alt="Screenshot 2023-07-22 at 6 40 17 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/c4157ea4-ca55-415a-a6d8-d4a4a0e3e8f0">
+
 
 
 ### ECSE 223 (Model-Based Programming, Winter 2022)
@@ -141,7 +142,8 @@ Created a DiveSafe application which is a software system to facilitate diving a
 There was a domain model that was first created to respect the requirements of the administrator of the diving program. Then, this domain model was translated into UMPLE code. Domain constraints were included. For the second sprint, we implemented completely a feature of the application.  A controller and Gherkin step definitions were done by doing Javadoc documentation. For the third sprint, we continued to build the application by introducing state machines. Finally, for the last sprint, we implemented the frontend by using Javafx and CSS. First university project where we add to work in teams.
 
 PRIVATE REPO: Can provide the repo if needed, contact me if needed.
-<img width="904" alt="Screenshot 2023-06-18 at 10 31 35 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/5b5e89b9-65fb-42c2-b542-d42a4df111d8">
+
+<img width="904" alt="Screenshot 2023-06-18 at 10 31 35 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/e929c7b8-b294-497e-ac5e-2fb1031c2e84">
 
 
 ## Team Out of School Projects
@@ -166,7 +168,7 @@ This application was built by bracking it in many Python files. We add a file th
 
 Link repo: https://github.com/andrei-sandor/ChatTOHacks
 
-<img width="790" alt="Screenshot 2023-06-18 at 11 07 06 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/7d03c97d-f4ba-4520-85de-ab8899a71447">
+<img width="790" alt="Screenshot 2023-06-18 at 11 07 06 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/97da7cbe-f387-47a7-bc41-68c8ebd8e5e8">
 
 ### RUHackathon (Summer 2022)
 #### CureSoft
@@ -199,11 +201,10 @@ Link to repo: https://github.com/andrei-sandor/4InARowPython
 
 Run the main.py file and play from the terminal!
 
-<img width="1437" alt="Screenshot 2023-06-25 at 11 57 13 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/cbc5c5ac-f344-4ed0-bf30-8c6d8921aa04">
+<img width="1415" alt="Screenshot 2023-06-25 at 11 59 25 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/6d7b896e-c61e-4ec7-b529-99de1366efa3">
+<img width="1419" alt="Screenshot 2023-06-25 at 11 58 07 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/b07a997a-a0e6-4281-8856-edb34aeeac4c">
+<img width="1437" alt="Screenshot 2023-06-25 at 11 57 13 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/4784fc47-c460-45fa-9901-eb952091fb00">
 
-<img width="1419" alt="Screenshot 2023-06-25 at 11 58 07 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/bd522587-49e4-40fc-bc40-9465d55de9fb">
-
-<img width="1415" alt="Screenshot 2023-06-25 at 11 59 25 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/0479557a-ea75-43e7-b2f6-f684ee87d268">
 
 ### Tic-Tac-Toe (July 2022)
 - Recreated the famous tic-tac-toe game in Java.
@@ -222,7 +223,7 @@ Link Repo: https://github.com/andrei-sandor/TicTacToeJava
 
 Run TicTacToe.java fom the src file and play from the terminal
 
-<img width="1406" alt="Screenshot 2023-06-25 at 12 26 17 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/c8d67101-1187-499f-b019-5d963ccc46a8">
+<img width="1406" alt="Screenshot 2023-06-25 at 12 26 17 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/6c0ea951-ff1d-4f39-99d6-a6e49eecc932">
 
 
 ## Individual School Projects
@@ -271,7 +272,9 @@ The program is used to a create a calculator that performs addition, subtraction
   - Pop and Push to store variables on the stack.
   - Working by including many drivers (Problem broken in smaller steps)
 
-https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/8178710c-c4ba-4ec9-9184-b0d528b932c5
+
+https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/4ef5c66c-a5c0-48bb-a44c-5039babe1428
+
 
 
 
@@ -291,7 +294,8 @@ Used the ARMv9 private timer, switches, pushbuttons and HEX displays to create a
 
 
 
-https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/767b9693-6ab1-4593-b88c-3112d0136bac
+https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/cbb2e33a-d118-4e8a-942d-58648b3646d8
+
 
 #### Assignment 3
 ##### Game of Life 
@@ -309,4 +313,5 @@ https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/767b969
 
 For the last assignemnt of ECSE 324, we had to create a Game of Life. For this assignment, we were working with drivers. We first started working to implement in assembly a driver that takes as input keyboard interrupts to perform a movmement. We also created a driver that changes the VGA output. To implement, the whole game, we have to use these drivers and break the task in smaller ones. We had to use assembly (mainly loops, stack and bl instructions) to create the grid, the squares, the movements. Finally, we performed the main game logic by using the principles of loops, working with matrices to change the shape of the input.
 
-https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/10da427b-6cb1-4b83-974d-7358ae727514
+https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/d8c8a04e-efec-432a-911d-cb25e2aa2193
+
