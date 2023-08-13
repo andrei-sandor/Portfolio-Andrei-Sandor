@@ -108,6 +108,7 @@ Tools:
   
   This project was broken into two sprints. The first sprint was about creating the backend by using Java, Gradle, Controllers, DTOs, model, repository, service from a domain model. Then, at the end of the sprint, we had to write user stories for what we implemented by automating them with Gherkin step definitions. Then, for the second sprint, we implementent the frontend by using Vue.js (HTML, CSS, JavaScript, axios, router, store and views). Then, at the end of the sprint, we had to test the frontend. For this project, we applied software development management techniques such as sprints, backlogs, burndown charts, scrum masters, product owners, story points, sprint reviews, sprint meetings.
 
+Private Repo: Ask me for access
 
 <img width="1384" alt="Screenshot 2023-07-22 at 6 43 56 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/43e91540-ea0e-4bb0-a193-4004879474c9">
 <img width="1329" alt="Screenshot 2023-07-22 at 6 41 59 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/9ed1d75a-0fc7-429e-8522-3cc6a037ffd7">
@@ -141,6 +142,7 @@ Created a DiveSafe application which is a software system to facilitate diving a
 
 There was a domain model that was first created to respect the requirements of the administrator of the diving program. Then, this domain model was translated into UMPLE code. Domain constraints were included. For the second sprint, we implemented completely a feature of the application.  A controller and Gherkin step definitions were done by doing Javadoc documentation. For the third sprint, we continued to build the application by introducing state machines. Finally, for the last sprint, we implemented the frontend by using Javafx and CSS. First university project where we add to work in teams.
 
+Private Repo: Ask me for access
 
 <img width="904" alt="Screenshot 2023-06-18 at 10 31 35 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/e929c7b8-b294-497e-ac5e-2fb1031c2e84">
 
