@@ -141,7 +141,6 @@ Created a DiveSafe application which is a software system to facilitate diving a
 
 There was a domain model that was first created to respect the requirements of the administrator of the diving program. Then, this domain model was translated into UMPLE code. Domain constraints were included. For the second sprint, we implemented completely a feature of the application.  A controller and Gherkin step definitions were done by doing Javadoc documentation. For the third sprint, we continued to build the application by introducing state machines. Finally, for the last sprint, we implemented the frontend by using Javafx and CSS. First university project where we add to work in teams.
 
-PRIVATE REPO: Can provide the repo if needed, contact me if needed.
 
 <img width="904" alt="Screenshot 2023-06-18 at 10 31 35 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/e929c7b8-b294-497e-ac5e-2fb1031c2e84">
 
