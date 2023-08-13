@@ -86,7 +86,7 @@ To launch the frontend, navigate to the museum-frontend directory and run the co
 
 
 ### ECSE 428 (Software Engineering Practice, Winter 2023)
-#### Web Scraper
+#### Gamming Price Tracker
 
   - Created a gamming price tracker website for video games and other related products by using the powerful AWS serivce as batabase.
   - Created the backend by using Java (Spring) and tested it with Gherkin. Fronted also included
