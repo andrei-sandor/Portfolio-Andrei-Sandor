@@ -43,7 +43,13 @@ Contact me at: andrei.sandor@mail.mcgill.ca
 
 ### ECSE 321 (Intro to Software Engineering, Fall 2022)
 #### Museum Website
-  - Write requirements
+
+  - Created a museum website used by customers, employees and administratior.
+  - Developed the backend using Java (Spring) by using a database (PostgreSQL) and the frontend with Vue.js (HTML, CSS and Javascript)
+  - Worked in a team of six student developers by using GitHbu to manage the project
+
+  Tools:
+  - Requirements
   - Domain Model
   - Use Case Diagrams
   - Gradle
@@ -63,6 +69,7 @@ Contact me at: andrei.sandor@mail.mcgill.ca
   - Hibernate
   - JUnit
 
+  
   Created in a team of 6 a website (frontend/backend) for a fictual museum that has a manager, employees and visitors. All employees of the museum will be able to move artifacts around from one room to another. Customers will be able to view artifacts on display, make loan requests, and donate new artifacts to the museum. The museum owner will be able to perform any employee action, but will also be able to perform additional administrative tasks.
   
 This website was broken into 3 sprints. The first sprint was used to setup the backend from a non technical point of view (requirements, use case diagrams and domain model). Persistence layer was also done. Then, the second sprint, we implemented the backend by using a database (postgreSQL) and JPA annotations. The backend was broken into service, DTOs and controllers. The backend was tested (unit and integration testing) with Postman by using JSON files. Then, for the final sprint, we created the fontend by using Vue.js. We also learned project management techniques used in the industry like GitHub projects, issues, sprints meetings and sprint reviews.
