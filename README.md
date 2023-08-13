@@ -126,6 +126,12 @@ PRIVATE REPO: Can provide the repo if needed, contact me if needed.
 
 ### ECSE 223 (Model-Based Programming, Winter 2022)
 #### Dive Safe Application
+
+  - Created an application for a diving community
+  - Created the "backend" by using UMPLE code integrated with Java. This was tested with Gherkin step definitions
+  - Created the frontend/ GUI by using JavaFx to implement our feature.
+  - Collaborated in a team of six to plan the programming work and the non programming work like domain model and state machines. 
+  
   - Domain model
   - Constraints
   - Java
