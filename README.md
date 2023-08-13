@@ -218,7 +218,7 @@ Run the main.py file and play from the terminal!
 <img width="1415" alt="Screenshot 2023-06-25 at 11 59 25 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/0479557a-ea75-43e7-b2f6-f684ee87d268">
 
 ### Tic-Tac-Toe (July 2022)
-- Recreated the famous tic-tac-toe game in Python.
+- Recreated the famous tic-tac-toe game in Java.
 - Built an easy to use interace with the command-line.
 
 Tools:
