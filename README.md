@@ -45,7 +45,7 @@ Contact me at: andrei.sandor@mail.mcgill.ca
 #### Museum Website
 
   - Created a museum website used by customers, employees and administratior.
-  - Developed the backend using Java and the frontend with Vue.js (HTML, CSS and Javascript)
+  - Developed the backend using Java and the frontend with Vue.js.
   - Collaborated in a team of six student developers by using GitHub.
 
   Tools:
@@ -89,7 +89,7 @@ To launch the frontend, navigate to the museum-frontend directory and run the co
 #### Gamming Price Tracker
 
   - Created a gamming price tracker website for video games and other related products by using the powerful AWS serivce as database.
-  - Created the backend by using Java and the fronted by using complex features of Vue.js
+  - Created the backend by using Java and the fronted by using Vue.js
   - Collaborated with a team of 9 students in two sprints by using Github as project management tool.
   
 Tools:
@@ -128,8 +128,7 @@ PRIVATE REPO: Can provide the repo if needed, contact me if needed.
 #### Dive Safe Application
 
   - Created an application for a diving community
-  - Created the "backend" by using UMPLE code integrated with Java. This was tested with Gherkin step definitions
-  - Created the frontend/GUI by using JavaFx to implement our feature.
+  - Created the "backend" by using UMPLE code integrated with Java and created the frontend/GUI by using JavaFx to implement our feature.
   - Collaborated in a team of six to plan the programming work and the non programming work like domain model and state machines. 
 
   Tools:
@@ -219,7 +218,7 @@ Run the main.py file and play from the terminal!
 <img width="1415" alt="Screenshot 2023-06-25 at 11 59 25 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/0479557a-ea75-43e7-b2f6-f684ee87d268">
 
 ### Tic-Tac-Toe (July 2022)
-- Recreated the famouns tic-tac-toe game in Python.
+- Recreated the famous tic-tac-toe game in Python.
 - Built an easy to use interace with the command-line.
 
 Tools:
