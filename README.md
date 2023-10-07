@@ -146,6 +146,42 @@ There was a domain model that was first created to respect the requirements of t
 
 
 ## Team Out of School Projects
+
+### TransportHacks (Fall 2023) Winner of the Best Sustainability Hack
+#### Co-Ride | Easy Ride Sharing!
+
+- Created in a team of 4 an application that takes a person efficently from point A to point B while also predicting maintenance for a car by matching to a driver that goes through that path .
+- Developed the backend by creating three Machine Learning algorithms that are deployed via FastAPI in Microsoft Azure.
+
+Tools:
+- Python (Pandas and Scikit-Learn)
+- Machine Learning (regression + metrics from scklearn).
+- FastApi, Google Cloud and MS Azure
+- React (TypeScript, JS and CSS)
+- SQL db
+- Streamlit
+- GoDaddy
+
+The website has a login page and sign up page for users of the website. There is also a dark and white theme for this app. Then, there will be a page with the commuting preferences. There, you can choose if you are a driver or commuter. If you are a driver, you can select the start and end position of commute. We can also check the maintenance that comes from the machine learning algorithm. Then, the road will be shown on the map from Google. If you are a commuter, you can input your start and end position. Then, when going to the matches tab, you will get best matching drivers that will go by where they go. The maintenance cost will be shown in case if something happened. For the backend, we can predict the engine condition in function of many parameters. We can predict the maintenance costs if they will happen. Finally, we can predict the best driver for a user in function of his/her position.
+
+For the backend (find the best match, the state of the engine and the maintenance), Jupyter Notebook files have been created first where we determine the best regression algorithm (Logistic Regression, MLPRegressor and RandomForesstRegressor) by using metrics (R2 score, MAE, MSE). For this models, the csv files have been replaced by a SQL databse. Then, to link it to the frontend, we used FastApi which takes the models and create endpoints on them. Then, when those endpoints were ready, they were deployed via Google Cloud and MS Azure. Then, the frontent was done with NextJS that put all the UX/UI together. NextAuth for authentication, Google Geolocation and Directions API were used. 
+
+Repo: https://github.com/joshua-rdrgz/transporthacks
+<img width="1500" alt="Screenshot 2023-09-24 at 8 17 25 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/3bb49269-342b-48b0-b980-5da6ff662069">
+
+<img width="1508" alt="Screenshot 2023-09-24 at 8 17 16 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/65cc5433-fc85-4e24-ad3f-47005f0621f8">
+
+<img width="1498" alt="Screenshot 2023-09-24 at 8 15 24 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/c2980f67-c98b-4618-b43a-250e5914c496">
+
+<img width="1508" alt="Screenshot 2023-09-24 at 8 15 11 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/de9d1f15-82d5-4814-bef2-c47cb9bc4897">
+
+<img width="1509" alt="Screenshot 2023-09-24 at 8 15 03 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/94af0148-f650-4897-ba04-595356f9a9a8">
+
+<img width="1512" alt="Screenshot 2023-09-24 at 8 14 43 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/164c7bf5-e51c-4353-b405-08b8ec971866">
+
+<img width="1508" alt="Screenshot 2023-09-24 at 8 14 29 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/de8c783e-66b0-4541-9840-c1bf70945a12">
+
+
 ### TOHacks (Summer 2022)
 #### ChatMoji 
 
