@@ -6,13 +6,13 @@ Hi, I am Andrei, a passionated of Machine Learning and Software Development from
 ## About me
 
 - 🧑🏻‍🎓 Third Year Software Engineering Co-op student at McGill University
-- 👨🏻‍💻 Two internships completed (Rogue Research and Gildan). One to come at Autodesk in Fall 2023.
+- 👨🏻‍💻 Two internships completed (Rogue Research and Gildan). One at Autodesk in Fall 2023.
 - 💪 Master these programming languages:
 
   - Python (including the libraries Scikit-Learn, Pandas, Numpy, OpenCV, MatPlotLib) 
   - Java
-  - C
   - C++ (Including OpenCV)
+  - C
   - Objective-C
   - Assembly
   - HTML
