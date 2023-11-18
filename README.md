@@ -152,6 +152,7 @@ There was a domain model that was first created to respect the requirements of t
 
 - Created in a team of 4 an application that takes a person efficently from point A to point B while also predicting maintenance for a car by matching to a driver that goes through that path .
 - Developed the backend by creating three Machine Learning algorithms that are deployed via FastAPI in Microsoft Azure.
+- The frontend was created by using React and Google tools.
 
 Tools:
 - Python (Pandas and Scikit-Learn)
