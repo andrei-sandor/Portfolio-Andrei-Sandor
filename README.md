@@ -162,12 +162,14 @@ Tools:
 - SQL db
 - Streamlit
 - GoDaddy
+- Google Geolocation API and Directions API 
 
 The website has a login page and sign up page for users of the website. There is also a dark and white theme for this app. Then, there will be a page with the commuting preferences. There, you can choose if you are a driver or commuter. If you are a driver, you can select the start and end position of commute. We can also check the maintenance that comes from the machine learning algorithm. Then, the road will be shown on the map from Google. If you are a commuter, you can input your start and end position. Then, when going to the matches tab, you will get best matching drivers that will go by where they go. The maintenance cost will be shown in case if something happened. For the backend, we can predict the engine condition in function of many parameters. We can predict the maintenance costs if they will happen. Finally, we can predict the best driver for a user in function of his/her position.
 
 For the backend (find the best match, the state of the engine and the maintenance), Jupyter Notebook files have been created first where we determine the best regression algorithm  by using metrics. For these models, the csv files have been replaced by a SQL databse. Then, to link it to the frontend, we used FastApi which takes the models and create endpoints on them. Then, when those endpoints were ready, they were deployed via Google Cloud and MS Azure. Then, the frontent was done with NextJS that put all the UX/UI together. NextAuth for authentication, Google Geolocation and Directions API were used. 
 
 Repo: https://github.com/joshua-rdrgz/transporthacks
+
 <img width="1500" alt="Screenshot 2023-09-24 at 8 17 25 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/3bb49269-342b-48b0-b980-5da6ff662069">
 
 <img width="1508" alt="Screenshot 2023-09-24 at 8 17 16 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/65cc5433-fc85-4e24-ad3f-47005f0621f8">
