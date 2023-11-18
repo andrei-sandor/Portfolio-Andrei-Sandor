@@ -9,9 +9,9 @@ Hi, I am Andrei, a passionated of Machine Learning and Software Development from
 - 👨🏻‍💻 Two internships completed (Rogue Research and Gildan). One at Autodesk in Fall 2023.
 - 💪 Master these programming languages:
 
+  - C++ (Including OpenCV)
   - Python (including the libraries Scikit-Learn, Pandas, Numpy, OpenCV, MatPlotLib) 
   - Java
-  - C++ (Including OpenCV)
   - C
   - Objective-C
   - Assembly
