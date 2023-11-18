@@ -182,7 +182,6 @@ Repo: https://github.com/joshua-rdrgz/transporthacks
 
 <img width="1508" alt="Screenshot 2023-09-24 at 8 17 16 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/9d968e65-c289-4ff8-af5b-257f5155224f">
 
-<img width="1512" alt="Screenshot 2023-09-24 at 9 43 34 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/42abfcfb-8e73-4e65-a8cb-77dbe436873f">
 
 ### TOHacks (Summer 2022)
 #### ChatMoji 
