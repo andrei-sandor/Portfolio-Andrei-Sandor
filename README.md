@@ -239,10 +239,10 @@ To create this app, this is what I have done. First of all, I used datasets from
 Repo Link:
 https://github.com/andrei-sandor/student_predictor
 
-<img width="1507" alt="Screenshot 2023-10-07 at 4 57 35 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/2448ecb0-23c6-41f5-b2b7-25524c87c458">
 
-<img width="1505" alt="Screenshot 2023-10-07 at 4 57 05 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/53bca357-2581-46a9-ae79-308b08b8a188">
+<img width="1507" alt="Screenshot 2023-10-07 at 4 57 35 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/c9e0c939-8de2-46bc-b1c4-34212317c847">
 
+<img width="1505" alt="Screenshot 2023-10-07 at 4 57 05 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/241db28c-57a7-49f2-9204-9fe1f2bd1fb1">
 
 ### 4InARowPython (August 2022)
 - Created the classical four in a row game.
