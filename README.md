@@ -22,8 +22,11 @@ Hi, I am Andrei, a passionated of Machine Learning and Software Development from
   - R
   - Octave
 
-Tools: 
-  VSCode, Anaconda, Eclipse, GitHub, JIRA, SVC, Spring, Hibernate, PostgreSQL, Flask, XCode, 
+Libraries/Frameworks: 
+  Scikit-learn, Pandas, NumPy, Matplotlib, Flask, UMPLE, FastAPI, Vue.js, Spring, React/NextJS, asyncio, JavaFx,audioop,SQLite, Pickle, JUnit
+
+Technologies:
+  Github, Git, VSCode, JupyterNotebook, Eclipse, Gradle, Hibernate, PostgresSQL, MSAzure, Streamlite, AWS, Google Cloud, GoDaddy, SQL, Google Tools, PyCharm, IntelliJ, ARMv7DE1-SoC Emulator, Postman, JSON, Gherkin
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei-sandor)
  
