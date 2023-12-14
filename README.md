@@ -150,7 +150,7 @@ There was a domain model that was first created to respect the requirements of t
 
 ## Team Out of School Projects
 
-### TransportHacks (Fall 2023) Winner of the Best Sustainability Hack
+### TransportHacks (Fall 2023 and Winner of the Best Sustainability Hack)
 #### Co-Ride | Easy Ride Sharing!
 
 - Created in a team of 4 an application that takes a person efficently from point A to point B while also predicting maintenance for a car by matching to a driver that goes through that path .
