@@ -242,6 +242,12 @@ To create this app, this is what I have done. First of all, I used datasets from
 Repo Link:
 https://github.com/andrei-sandor/student_predictor
 
+To use the app:
+Go to the main folder and run the command
+
+    python app.py
+
+Go to the localhost mentioned and input some values. After, click predict and you can see the predictions!
 
 <img width="1507" alt="Screenshot 2023-10-07 at 4 57 35 PM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/c9e0c939-8de2-46bc-b1c4-34212317c847">
 
