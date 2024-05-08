@@ -225,6 +225,30 @@ Repo Link:
 https://github.com/andrei-sandor/RUHackathon
 
 ## Individual Out of School Projects
+
+### ChatBotIntelligent (Summer 2024)
+Tools:
+- Python
+- Discord.api
+- openai
+- pandas
+- joblib
+- sqlite3
+- repl.it database and cloud service
+- ntlk
+- tensorflow (Neural networks + Regression)
+- sklearn
+- numpy
+- tabula
+- tabulate
+- PyPDF2
+
+Created alone this discord intelligent bot. My inspiration for this is what happened in the Winter 2024 semester. I took COMP 302 (Programming Languages and Paradigms). We were using Discord instead of MyCourses for 95% of the academic activites. Also, during that semester, we lost the TAs due to the strike they called. Hence, I want to created a bot that can do the job of the TAs and that can also make the task of the professor easier for academic activites. My bot can take inputs and can do the following actions. Generate chaptGPT actions to answer reasonable questions from the students. Parse a course outline and answer any questions that the students have about course outline. This either outputs some text or it outputs the page/section as a editied pdf. Then, I gave the possibility to the professor to input an spreadsheet with only the student numbers so that students can input in the chat their grades. These grades will be added to the spreadsheet with no work from the instructor. Also, some statistics were done such that the student knows how much he/she needs to get an A and to pass the course. I also used deep learning to predict the final grade of the student so that he knows how to become better. Also, I used two databases where I can store the grades an to store some non grade messages. Finally, there is an option that in function of what the message is, the student is redirected to the right TA.
+
+To create this app, this is what I have done. First of all, I set the template of the project by using many functions from the discord_api Python library to perform many actions like sending and parsing many type of messages from either the users and the administrator. Then, I used an openai plugging to generate answers like a ChatGPT style by using the text-davinci-002 engine which is one of the most important one for AI. Then, I used the libraries tabula, tabulate and PyPDF2. With these libraries, I managed to parse course schedule information to return correctly. Also, with PyPDF2, I used PDFWriter() to encrypt all the course outline information so that the admin can be the only person that can work with the course outline. Also, discord_api commands to output specific sections of the course outline. Then, I handled the grades. For this, I created a dataframe of the excel file that contains the grades. By using discord_api options, I managed to handle grades in the dataframe. Also, to predict the final grade, I used tensorflow and I created by myself all the neural networks by usin keras. Finally, I use sqlite3 to handle the grades inside a database. Also, I used the repl.it database for the messages. Finally,I used from ntlk SentimentIntensityAnalyser to match a student to the TA they need.
+
+Repo Link: https://github.com/andrei-sandor/ChatBotIntelligent 
+
 ### Student Predictor (Fall 2023)
 Tools:
 - Python (Pandas, Scikit-Learn)
