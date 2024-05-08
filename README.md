@@ -148,6 +148,23 @@ There was a domain model that was first created to respect the requirements of t
 <img width="904" alt="Screenshot 2023-06-18 at 10 31 35 AM" src="https://github.com/andrei-sandor/Portfolio-Andrei-Sandor/assets/97865484/e929c7b8-b294-497e-ac5e-2fb1031c2e84">
 
 
+### ECSE 422 (Fault Tolerant Computing, Winter 2024)
+#### Communication Network Designer
+
+Tools:
+- Python
+- Kruskal's algorithm
+- DFS, BFS, and known basic algorithms
+- Dynamic programming
+
+Created in a team of three a communication network designer. This assignment consists of choosing the best connections (that have a cost and a reliability) such that all the cities in the scenario are covered at best reliability and at best cost. We had to implement a brute force approach to find the reliabilites and we had to implement a better appraoch.
+
+
+For the brute force approach, we calculated the reliability by starting from no connections and moving our way up until everything is connected. For each scenario, we found the reliability and we stored it such that we can use it in the future (dynammic programming). To check that the cities are connected, we did a BFS check. Then, for the better approach, we started by implementing a Kruskal's algorithm such that we can improve compared to the brute force approach. Then, we had to augment the scenarios by increasing redundancy. We tried many heursitics to generate the results. We try to implement best by cost, reliability and combination of them.
+
+Repo Link: https://github.com/Kai-Cheng-WU/ECSE422 
+
+
 ## Team Out of School Projects
 
 ### TransportHacks (Fall 2023 and Winner of the Best Sustainability Hack)
