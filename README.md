@@ -10,7 +10,7 @@ Hi, I am Andrei, a passionated of Machine Learning and Software Development from
 - 💪 Master these programming languages:
 
   - C++ (Including OpenCV)
-  - Python (including the libraries Scikit-Learn, Pandas, Numpy, OpenCV, MatPlotLib) 
+  - Python (including the libraries Scikit-Learn, Pandas, Numpy, OpenCV, MatPlotLib, Tensorflow) 
   - Java
   - C
   - Objective-C
@@ -23,10 +23,10 @@ Hi, I am Andrei, a passionated of Machine Learning and Software Development from
   - Octave
 
 Libraries/Frameworks: 
-  Scikit-learn, Pandas, NumPy, Matplotlib, Flask, UMPLE, FastAPI, Vue.js, Spring, React/NextJS, asyncio, JavaFx,audioop,SQLite, Pickle, JUnit
+  Scikit-learn, Pandas, NumPy, Matplotlib, Flask, UMPLE, FastAPI, Vue.js, Spring, React/NextJS, asyncio, JavaFx,audioop,SQLite, Pickle, JUnit, TensorFlow, Discord_Api, openai, joblib, repl.it db, ntlk, tabula, tabulate, PyPDF2
 
 Technologies:
-  Github, Git, VSCode, JupyterNotebook, Eclipse, Gradle, Hibernate, PostgresSQL, MSAzure, Streamlite, AWS, Google Cloud, GoDaddy, SQL, Google Tools, PyCharm, IntelliJ, ARMv7DE1-SoC Emulator, Postman, JSON, Gherkin
+  Github, Git, VSCode, JupyterNotebook, Eclipse, Gradle, Hibernate, PostgresSQL, MSAzure, Streamlite, AWS, Google Cloud, GoDaddy, SQL, Google Tools, PyCharm, IntelliJ, ARMv7DE1-SoC Emulator, Postman, JSON, Gherkin, Repl.it cloud service.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrei-sandor)
  
