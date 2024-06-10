@@ -5,8 +5,8 @@ Hi, I am Andrei, a passionated of Machine Learning and Software Development from
 
 ## About me
 
-- 🧑🏻‍🎓 Third Year Software Engineering Co-op student at McGill University
-- 👨🏻‍💻 Two internships completed (Rogue Research and Gildan). One at Autodesk in Fall 2023.
+- 🧑🏻‍🎓 Fourth Year Software Engineering Co-op student at McGill University
+- 👨🏻‍💻 Three internships completed (Rogue Research, Autodesk and Gildan).
 - 💪 Master these programming languages:
 
   - C++ (Including OpenCV)
@@ -23,7 +23,7 @@ Hi, I am Andrei, a passionated of Machine Learning and Software Development from
   - Octave
 
 Libraries/Frameworks: 
-  Scikit-learn, Pandas, NumPy, Matplotlib, Flask, UMPLE, FastAPI, Vue.js, Spring, React/NextJS, asyncio, JavaFx,audioop,SQLite, Pickle, JUnit, TensorFlow, Discord_Api, openai, joblib, repl.it db, ntlk, tabula, tabulate, PyPDF2
+  Scikit-learn, Pandas, NumPy, Matplotlib, Flask, UMPLE, FastAPI, Vue.js, Spring, React/NextJS, asyncio, JavaFx,audioop,SQLite, Pickle, JUnit, TensorFlow, Discord_Api, openai, joblib, repl.it db, ntlk, tabula, tabulate, PyPDF2, xarray, specklepy.api, steamlit, plotly, speckle_io, matplotlib
 
 Technologies:
   Github, Git, VSCode, JupyterNotebook, Eclipse, Gradle, Hibernate, PostgresSQL, MSAzure, Streamlite, AWS, Google Cloud, GoDaddy, SQL, Google Tools, PyCharm, IntelliJ, ARMv7DE1-SoC Emulator, Postman, JSON, Gherkin, Repl.it cloud service. Anaconda, Discord
