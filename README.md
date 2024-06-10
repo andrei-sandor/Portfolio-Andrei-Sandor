@@ -166,6 +166,18 @@ Repo Link: https://github.com/Kai-Cheng-WU/ECSE422
 
 
 ## Team Out of School Projects
+### Beyond The Speckleverse Hackathon (Summer 2024)
+#### Kai Tak MGM JV
+- Created in a team of 5 a backend that finds the best tunnel bath from point A to point B while respecting voxel values representing geological and GIS Data
+- Used the specklepy.api Python library to connect the backend and the frontend.
+
+Tools:
+- Python (Numpy, xarray, specklepy.api, steamlit, pandas, plotly, speckle_io, matplotlib)
+
+Created in a team of 5 a programming project for a fictuous situation to generate a new tunnel in the city of Kai Tak in Hong Kong. To realize this project, we had to work with geological and GIS data of the city that is represented as a voxel (think Minecraft). Each voxel has a specific value between 0 and 1 representing the situation at that position. A value of 1 means good place to build the tunnel and a value of 0 means it is not a good place. The best tunnel has the highest product of the value of each voxel. To generate this tunnel, many algorithms were tried like beam algorithm, divide and conquer algorithm, viterbi algorithm and pruning algorithm. Finally, the best algorithm was beam algorithm. This was programmed by using Python with Jupyer Notebook. Numpy was used to generate a local data environemnt. Then, when the algoithm was done, we had to link it to the frontend and create an app as backend. To do this we use extensively the Python libraries specklepy.api and streamlit. The app contains the authentication section, it can select a Speckle project and it can transfer the backend to the frontend. Then, the specific data was generated from the frontend by using Python function to bring them to the backend. All the data was converted to a dictionary of pandas DataFrames to be able to better use the data in the backend. Finally, there is an option to create a stream between the frontend and the backend.
+
+Link repo: https://github.com/bedrock-systems/speckle-hackathon 
+
 
 ### TransportHacks (Fall 2023 and Winner of the Best Sustainability Hack)
 #### Co-Ride | Easy Ride Sharing!
