@@ -271,10 +271,8 @@ Tools:
 - pandas
 - numpy
 - scklearn
-# TODO: Add them to tools
 
 Created by myself a complex website that can perform complex automation tasks. One of the tasks that it can produce is to generate a random and strong passwrod in function of the inputs of the user about what he/she wants for the password. Some machine learning was done to identify the strength of the password.Then, there is the option to automate mail messages like birthday ones. This task takes as input emails and password. Then, there is the option to automate complex operations on Excel documents. Also, there is an option to automate filling online forms by using input data from the user and forms. Finally, there is a tool that can convert from one currency to the other. Also, there is the option to generate plots with info about the given currency to other currencies.
-# TODO input money
 
 To create this app, I started by building the frontend. The frontend was produced by bootstrap, for which I had no previous knowledge about. This tool helped me to build a strong and beautiful UI. Then, to connect the bakcend to the frondend, I used Flask. I pushed my limits with Flask by using a database SQLAlchemy and by handling many webpages by using render_template, redirect and request. Then, for the password, I used random-password-generator to generate a password with restrictions from user. Then, I used sklearn to test the efficency of the password. Then, for the email automator, I used smtplib to generate messages from different mail providers like gmail and outlook. Then, for the excel automator, I used openpyxl and win32com to perform complex operations on Excel that the user asked for. Then, for the form, I used extensively Selenium to handle interactions between inputs and forms that can be used on different browsers. Finally, for the currency,I use forex which gave me the option to do conversions and do plots with seaborn to give more info to the user.
 
