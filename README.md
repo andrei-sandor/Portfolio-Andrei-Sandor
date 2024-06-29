@@ -162,7 +162,6 @@ Created in a team of three a communication network designer. This assignment con
 
 For the brute force approach, we calculated the reliability by starting from no connections and moving our way up until everything is connected. For each scenario, we found the reliability and we stored it such that we can use it in the future (dynammic programming). To check that the cities are connected, we did a BFS check. Then, for the better approach, we started by implementing a Kruskal's algorithm such that we can improve compared to the brute force approach. Then, we had to augment the scenarios by increasing redundancy. We tried many heursitics to generate the results. We try to implement best by cost, reliability and combination of them.
 
-Repo Link: https://github.com/Kai-Cheng-WU/ECSE422 
 
 
 ## Team Out of School Projects
