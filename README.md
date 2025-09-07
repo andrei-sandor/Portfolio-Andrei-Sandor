@@ -5,7 +5,7 @@ Hi, I am Andrei, a passionated of Machine Learning and Software Development from
 
 ## About me
 
-- 🧑🏻‍🎓 Fourth Year Software Engineering Co-op student at McGill University
+- 🧑🏻‍🎓 First Year Masters student in Computer Science (Non-Thesis) at McGill University. Graduate Software Engineering Co-op student at McGill University
 - 👨🏻‍💻 Four internships completed (Rogue Research, Autodesk and Gildan).
 - 💪 Master these programming languages:
 
